@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gbonjean)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
