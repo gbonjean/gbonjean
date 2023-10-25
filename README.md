@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guillaume</h1>
-<h3 align="center">Fullstack mobile & web developper and algorithms lover</h3>
+<h3 align="center">Fullstack mobile/web developper and algorithms lover</h3>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
